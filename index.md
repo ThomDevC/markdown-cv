@@ -4,7 +4,7 @@ title: Thomas CREPINGE
 ---
 # *Thomas CREPINGE*
 
-**Software & Data Engineer**
+**Software Engineer**
 
 [crepinge.thomas@gmail.com](mailto:crepinge.thomas@gmail.com)
 
@@ -12,181 +12,239 @@ title: Thomas CREPINGE
 
 Lille, France
 
-[*GitHub*](https://github.com/ThomasCREPINGE){:target="_blank"}
+<div class="screen" markdown="1">
+
+[**GitHub Profile**](https://github.com/ThomasCREPINGE){:target="_blank"}
+
+</div>
+
+<div class="print" markdown="1">
+	
+Web: https://thomascrepinge.github.io/resume/
+
+</div>
 
 ---
 
+<div class="screen" markdown="1">
+
 {:.description}
-*Driven to build strong artificial intelligence in order to solve global problems, I have five years of experience in development.
-I have successfully launched REST-API for e-commerce and standalone applications for critical industries. 
-I now intend to take part in Data Sciences missions in an environment in need of innovative and high-performance learning models as an engineer familiar with business intelligence and development.
-I enjoy asking questions and finding answers as I have an interest in neurology sciences and human psychology.*
+*The eighth year of my career is about to come to an end and I still have the feeling that I know nothing.*
+*I obviously accumulated experiences that made I am now capable of facing some various and difficult problems, but in a world of Generative AI tools, a successful project is not a technical matter anymore. In contrast, I observed lots of communication issues though my missions, and so, I think the challenge for the IT teams will be more on the human side.*
+*That's why I no longer want to be a Developper that only focuses on code, but a mindful Engineer aware that he will have to empathize with his future coworkers in order to do big things.*
 
-## Personality
-
-### MBTI
+</div>
 
 <div class="screen" markdown="1">
 
-[**Virtuoso ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
+## Hard Skills
 
-Introverted : 83% / Observant : 69% / Thinking : 61% / Prospecting : 96%
+### Langagues
 
-<!--
-Introverted <progress max="100" value="83"></progress>
+Java ; Spring Boot (Expert)
 
-Observant <progress max="100" value="69"></progress>
+SQL (Advanced)
 
-Thinking <progress max="100" value="61"></progress>
+Python (Basics)
 
-Prospecting <progress max="100" value="58"></progress>
--->
+### Algorithm
+
+Object-Oriented Programming ; Generics
+
+Tree Data Structures ; State Machines
+
+Mathematics for AI ; Statistics ; Machine Learning ; Deep Learning
+
+### Architecture
+
+Domain-Driven Design ; Hexagonal ; Clean Code
+
+Microservices 
+
+Event-Driven Pattern
+
+REST API Design ; OpenAPI Specifications
+
+## Social Skills
+
+### Organization
+
+Agile Methodologies ; Continuous Improvement Rituals
+
+Tools: Jira ; Confluence
+
+### Soft skills
+
+MBTI: [**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
+
+Strong Empathetic Leadership 
+
+Pragmatism And Critical Thinking
+
+### Internationalization
+
+Native French
+
+Fluent in both written and spoken English
+
+Mauritian Basics
 
 </div>
 
-<!--
 <div class="print" markdown="1">
-
-[**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
-
-Introverted : 83% / Observant : 69% / Thinking : 61% / Prospecting : 96%
-
-</div>
--->
 
 ## Skills
 
-### Algorithm 
+**Langagues:** Java (Spring Boot) / SQL / Python
 
-Java 1.8, 
-Python 3
+**Algorithm:** OOP / Complex Data Structures (Trees, ...) / Mathematics for AI (Deep Learning)
 
-### Web 
+**Architecture:** Domain-Driven Design / Microservices / Event-Driven Pattern / REST API
 
-Spring Framework (MVC, Data), 
-Django
+**Organization:** Agile Methodologies / Tools (Jira, Confluence)
 
-### Machine Learning 
+**Soft skills:** Strong Empathetic Leadership / Pragmatism And Critical Thinking
 
-Pandas, 
-Numpy, 
-SKLearn, 
-Matplotlib, 
-Scipy
-
-### Database
-
-SQL, 
-Postgresql
-
-<!--
-<div class="print" markdown="1">
-
-Java 1.8 ; Python 3
-
-Spring Framework (MVC, Data) ; Django
-
-Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy
-
-SQL, Postgresql
+**Internationalization:** Native French / Fluent English / Mauritian Basics
 
 </div>
--->
-
-### Tools
-
-Git, 
-Maven, 
-Sonar, 
-Jenkins
-
-### Languages
 
 <div class="screen" markdown="1">
 
-+ English : *Good oral and excellent written skills* 
-+ Korean & Japanese : *Basics*
+## Experiences
+
+### 10/2023 - now 
+**WayKonect** - *Team Leader*
+
+Working for a TotalEnergies subsidiary specialized in mobility services, I was the leader of a 8 people feature team.
+
+In addition to be in charge of the technical design of the microservices, I engage myself into the project organisation and the long-term roadmap alongside with the product owner.
+
+Thus, I succeeded in setting up a strong team spirit that conduced to high-quality continuous deliveries.
+
+_Stack: Java 21, Spring Boot 3, Docker, Postgresql, GitHub Actions, AWS (Cloudwatch, SQS)_
+
+### 08/2022 - 10/2023
+**ADEO** - *Lead Developer*
+
+Amongst the Supply Chain Data Platform of a French DIY retailer, I was the lead developper of the Relex Gateway team.
+
+In collaboration with 3 junior data engineers, I made a REST API from scratch for managing Order Proposals that was computed by an external AI solution and stored in a BigQuery DataWarehouse.
+
+As a result, the whole department delivered a new in-store app based on the API, in less than 6 months. 
+
+_Stack: Java 17, Quarkus 3, Docker, Postgresql, GitHub Actions, GCP (BigQuery)_
+
+### 04/2020 - 04/2022
+**Thales** - *Developer*
+
+Thales is a French system manufacturer for the defence sector. 
+
+In a context of a confidential and sensitive project, I was a developper of a internal web platform for monitoring network equipments.
+
+_Stack: Java 11, Spring Boot 2, Postgresql, Python 3 (Danjo)_
+
+### 01/2017 - 03/2020
+**Decathlon** - *Developer*
+
+Working for Decathlon, a well-known French retailer dedicated to conceive sport accessories, I was a developper in the Customer Invoice Team.
+
+Included in a 5 people team, I was responsible for the ongoing maintenance of the newly built application that generates and stores de-materialized invoices, for both e-commerce and in-store transactions. 
+
+When I quit, the app provided invoices for the new website project that was released in 7 countries and for stores in about 20 countries all over the world.
+
+_Stack: Java 1.8, Spring (MVC, Data), Postgresql, Jenkins, AngularJS_
 
 </div>
 
-<!--
 <div class="print" markdown="1">
-
-English : *Good oral and excellent written skills*
-
-</div>
--->
 
 ## Experiences
 
-### 2020-2021
-**Kept in secret** - *Software Engineer*
+### 10/2023 - now 
+**WayKonect** - *Team Leader*
 
-In a context of a confidential project in a very sensitive field of work, I brought some improvements to an existent web platform destined for the monitoring of network equipments in order to fit the client's needs.
+Working for a TotalEnergies subsidiary specialized in mobility services, I was the leader of a 8 people feature team. In addition to be in charge of the technical design of the microservices, I engage myself into the project organisation and the long-term roadmap alongside with the product owner. Thus, I succeeded in setting up a strong team spirit that conduced to high-quality continuous deliveries.
 
-As Groovy was mainly used as programming language, my knowledge of Java was useful but I also had to learn some more about others like Python.
-I finally was responsible for the migration of some Python scripts from version 2 to version 3, what made me want to explore every possibility it allows.
+### 08/2022 - 10/2023
+**ADEO** - *Lead Developer*
 
+Amongst the Supply Chain Data Platform of a French DIY retailer, I was the lead developper of the Relex Gateway team. In collaboration with 3 junior data engineers, I made a REST API from scratch for managing Order Proposals that was computed by an external AI solution and stored in a BigQuery DataWarehouse. As a result, the whole department delivered a new in-store app based on the API, in less than 6 months. 
 
-### 2016-2020
-**Econocom, Lille, Decathlon** - *Software Engineer*
+### 04/2020 - 04/2022
+**Thales** - *Developer*
 
-Decathlon is a French retailer dedicated to conceive sporting equipment and provide it all over the world.
-As a result of a new e-commerce website and fully de-materialized invoices, they built a scalable and effective REST API that grants omni-device usage.
+Thales is a French system manufacturer for the defence sector. In a context of a confidential and sensitive project, I was a developper of a internal web platform for monitoring network equipments.
 
-I was first in charge of fixes and upgrades on the back-end, a three-tiers architecture Spring application.
-Later on with the success of the subsequent deployments in a couple of worldwide countries, I took a step forward as Lead Developer of a five-members team.
-Thus, I set up continous improvment, continuous integration and code review thanks to Sonar and Jenkins suite.
+### 01/2017 - 03/2020
+**Decathlon** - *Developer*
 
+Working for Decathlon, a well-known French retailer dedicated to conceive sport accessories, I was a developper in the Customer Invoice Team. Included in a 5 people team, I was responsible for the ongoing maintenance of the newly built application that generates and stores de-materialized invoices, for both e-commerce and in-store transactions. When I quit, the app provided invoices for the new website project that was released in 7 countries and for stores in about 20 countries all over the world.
 
-### 2016
-**Sopra Steria, Brussels, European Institutions** - *Software Engineer*
+</div>
 
-The EU Institutions Business Unit of Sopra Steria was asked for making a web application that have to retrieve the identity of the asylum askeers, based on fingerprints and passport as inputs.
-In tandem with a team of international remote developers specialized in European data systems, I designed an IHM that responds to UX needs in a Java environment using ZK Framework.
+<div class="screen" markdown="1">
 
-## Training
+## Education
 
 ### 2010-2016
 **Institut Supérieur d'Electronique et du Numérique, Lille** - *Engineer's Degree*
 
 Project Management and Business Development in Information Technologies
 
-Association : Head of Rock'n'Roll Club, Organizer of a 10K-visitors Rock'n'Roll concert
+_Association: Head of Rock'n'Roll Club_
 
-### 2021
-**Self-learning on Codecademy**
+</div>
 
-Python: 
-Statistics, 
-Machine Learning, 
-Deep Learning, 
-Django Framework
-    
-## Hobbies
+<div class="print" markdown="1">
 
-### Programming challenges
-**Codingame**
-+ [My profile](https://www.codingame.com/profile/2ecc5b080c0c41edc84a425e0ca601457107752){:target="_blank"}
+## Education
 
-**HackInScience**
-+ [Leaderboard](https://www.hackinscience.org/leaderboard/){:target="_blank"}
-+ [My solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
+### 2010-2016
+**Institut Supérieur d'Electronique et du Numérique, Lille** - *Engineer's Degree*
 
-### Reading
-Biology, Psychology, Philosophy, Politics
+Project Management and Business Development in Information Technologies
+
+_Association_ : Head of Rock'n'Roll Club
+
+</div>
+
+<div class="screen" markdown="1">
+
+## Interests
 
 ### Music
-Guitar player in a band, blues & rock jammer
+
+Blues Guitar Player (Jam sessions)
+
+### Dance
+
+Rock'n'Roll Teacher
+
+### Role-Playing Game
+
+Game Master
+
+</div>
+
+<div class="print" markdown="1">
+
+## Interests
+
+_Music:_ Blues Guitar Player (Jam sessions)
+
+_Dance:_ Rock'n'Roll Teacher
+
+_Role-Playing Game:_ Game Master
+
+</div>
 
 <div class="screen" markdown="1">
 
 ---
 
-<!--
 <button id="bt-print" onclick="window.print();">Print !</button>
--->
 
-*Last update: June 2021, 11th*
+*Last update: Oct. 2024, 20th*
 
 </div>
